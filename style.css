@@ -1,0 +1,78 @@
+body {
+    background-color: #343441;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    color: #ffffff;
+}
+
+
+header {
+    background-color: #202123;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.input-container,
+.output-container,
+.language-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+input[type="text"],
+select {
+    width: 100%;
+    padding: 10px;
+}
+
+button {
+    font-weight: bold;
+    background-color: rgb(25, 195, 125);
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+#translatedText {
+    text-align: center;
+    font-weight: bold;
+}
+
+footer {
+    background-color: #202123;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer p {
+    margin: 0;
+}
+#copyButton {
+    font-weight: bold;
+    background-color: rgb(25, 195, 125);
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 10px;
+}
