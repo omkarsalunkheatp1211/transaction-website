@@ -35,7 +35,7 @@ OR
 
 Open your terminal or command prompt and Clone the repository to your local machine:
 ```javascript
-git clone https://github.com/omkarsalunkheatp1211/transaction-website.git
+git clone https://github.com/omkarsalunkheatp1211/Happy-Independence-Day.git
 ```
 Go to the transaction-website directory
 ```javascript
