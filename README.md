@@ -17,6 +17,7 @@ This is a simple web application that allows users to translate text between Mar
 - Copy translated text to clipboard.
 
 ## Preview
+**Live Demo:** [Language Translation Website](https://omkarsalunkheatp1211.github.io/transaction-website/)
 
 ![1](https://github.com/omkarsalunkheatp1211/transaction-website/assets/96873232/c05d61f1-67e2-4617-af89-3c8fa0078e7d)
 
@@ -28,10 +29,6 @@ This is a simple web application that allows users to translate text between Mar
 - Fetch API for JSON data retrieval
 
 ## Setup
-
-https://omkarsalunkheatp1211.github.io/transaction-website/
-
-OR
 
 Open your terminal or command prompt and Clone the repository to your local machine:
 ```javascript
