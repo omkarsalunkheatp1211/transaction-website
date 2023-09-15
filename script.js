@@ -28,7 +28,6 @@ document.addEventListener("DOMContentLoaded", function () {
             copyButton.addEventListener("click", function () {
                 if (translatedText.textContent) {
                     copyToClipboard(translatedText.textContent);
-                    alert("Text copied to clipboard.");
                 }
             });
         });
